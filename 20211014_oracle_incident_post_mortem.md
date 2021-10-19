@@ -24,7 +24,7 @@
 | -------- | -------- | -------- | -------- |
 | Deploy oracle with correct certificates | mitigate     | dcale     | DONE |
 | Configure engine to point to new oracle in multisig ceremony | mitigate     | youves signers   | DONE |
-| Monitor exchange certificate changes  | prevent     | lionel   | OPEN |
+| Monitor exchange certificate changes  | prevent     | lionel   | DONE |
 
 ## Lessons Learned
 
