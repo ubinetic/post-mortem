@@ -46,7 +46,8 @@
 
 ### Conclusion
 
-- The state of the server certificates needs to be monitored by ubinetic on an ongoing basis. In case changes happen, the  amendments to remedy the situation have to be implemented in the oracles promptly.
+- The state of the server certificates needs to be monitored by ubinetic on an ongoing basis. 
+- In case changes happen, the  amendments to remedy the situation have to be implemented in the oracles promptly.
 
 ## Timeline
 
